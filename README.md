@@ -1,6 +1,6 @@
 ## Hi there! I am Sophia Ly!
 
-I am a Junior at University of Arizona studying computer science and am passionate about exploring the transformative power of Artificial Intelligence. From creating intelligent systems to developing practical AI-driven applications, I am dedicated to solving real-world problems through innovative tech. My expertise lies in data science, machine learning, and research, and I’m always excited to learn and experiment with emerging technologies.
+✨ I am a Junior at University of Arizona studying computer science and am passionate about exploring the transformative power of Artificial Intelligence. From creating intelligent systems to developing practical AI-driven applications, I am dedicated to solving real-world problems through innovative tech. My expertise lies in data science, machine learning, and research, and I’m always excited to learn and experiment with emerging technologies.
 
 <!--
 **sophiatdly/sophiatdly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
